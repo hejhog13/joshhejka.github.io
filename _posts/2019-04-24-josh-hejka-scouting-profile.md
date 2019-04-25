@@ -1,4 +1,8 @@
-# Scouting Profile
+---
+layout: post
+title: "Josh Hejka Scouting Profile"
+date: 2019-04-323
+---
 
 ## Table of Contents
 
@@ -7,18 +11,19 @@
   - [Fastball](#fastball)
   - [Slider](#slider)
   - [Changeup](#changeup)
-- [What Sets Me Apart](#what-sets-me-apart)
+- [Key Differentiators](#key-differentiators)
   - [Arm Slot](#arm-slot)
   - [Velocity](#velocity)
   - [Command](#command)
   - [Deception](#deception)
+  - [Durability](#durability)
   - [Mound Presence](#mound-presence)
   - [Battle Tendency](#battle-tendency)
 - [Stats and Accolades](#stats-and-accolades)
 
 ## Basic Info
 
-- **Name:** Joshua Hejka
+- **Name:** Josh Hejka
 - **Cell Number:** (734) 389-5713
 - **Email:** jrhejka@gmail.com
 - **School:** Johns Hopkins University
@@ -47,7 +52,7 @@
 - **Spin Rate (Rapsodo):** ~1600-1800 rpm
 - **Movement (Rapsodo):** ~13 in arm side, ~6 in downward
 
-## What Sets Me Apart
+## Key Differentiators
 
 ### Arm Slot
 
@@ -57,7 +62,7 @@
 ### Velocity
 
 - Comparable to Major League submariners
-- Still have more in me – planning to get to 90 in next year
+- Still growing, hasn't hit ceiling – potential for 90+
 
 ### Command
 
@@ -71,10 +76,15 @@
 - Great tunneling of off-speed pitches and fastball
 - Delivery and tunneling demonstrated in videos below
 
+### Durability
+
+- Consistently used on back-to-back days or in both ends of a doubleheader
+
 ### Mound Presence
 
 - Command of game
 - Composure in all situations
+- High baseball IQ
 
 ### Battle Tendency
 
@@ -105,3 +115,4 @@
 - First-Team All-League
 - All-Star Game Starting Pitcher
 - Picked to pitch for league showcase team
+
