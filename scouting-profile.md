@@ -78,6 +78,8 @@ date: 2019-04-24
 - Great tunneling of off-speed pitches and fastball
 - Delivery and tunneling demonstrated in videos below
 
+<iframe width="420" height="315" src="https://youtu.be/Kmf0Mm1Z6IY" frameborder="0" allowfullscreen></iframe>
+
 ### Durability
 
 - Consistently used on back-to-back days or in both ends of a doubleheader
