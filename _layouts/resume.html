@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ page.title }}</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="Josh Hejka Scouting Profile"/>
+<meta charset="UTF-8">
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="resume.css">
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="headshot.jpg" alt="Alan Smith" />
+		</div>
+
+		<div id="name">
+			<h1 class="quickFade delayTwo">Josh Hejka</h1>
+			<h2 class="quickFade delayThree">{{ page.title }}</h2>
+		</div>
+
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>email: <a href="mailto:jrhejka@gmail.com" target="_blank">jrhejka@gmail.com</a></li>
+				<li>website: <a href="http://www.bloggs.com">www.joshhejka.com</a></li>
+				<li>phone: (734) 389-5713</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+
+    <div class="container">
+
+			{{ content }}
+
+	</div><!-- /.container -->
+
+</div>
+</body>
+</html>
