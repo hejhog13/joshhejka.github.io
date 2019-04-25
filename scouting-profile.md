@@ -78,7 +78,7 @@ date: 2019-04-24
 - Great tunneling of off-speed pitches and fastball
 - Delivery and tunneling demonstrated in videos below
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kmf0Mm1Z6IY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kmf0Mm1Z6IY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Durability
 
