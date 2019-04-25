@@ -6,7 +6,7 @@ date: 2019-04-24
 
 # Josh Hejka Scouting Profile
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Basic Info](#basic-info)
 - [Pitching Arsenal](#pitching-arsenal)
@@ -21,7 +21,7 @@ date: 2019-04-24
   - [Durability](#durability)
   - [Mound Presence](#mound-presence)
   - [Battle Tendency](#battle-tendency)
-- [Stats and Accolades](#stats-and-accolades)
+- [Stats and Accolades](#stats-and-accolades) -->
 
 ## Basic Info
 
