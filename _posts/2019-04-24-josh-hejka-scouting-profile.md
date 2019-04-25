@@ -1,8 +1,10 @@
 ---
-layout: post
-title: "Josh Hejka Scouting Profile"
+layout: default
+title: "Scouting Profile"
 date: 2019-04-24e
 ---
+
+# Josh Hejka Scouting Profile
 
 ## Table of Contents
 
