@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: default
 title: "Scouting Profile"
 date: 2019-04-24
 ---
