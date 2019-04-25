@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Scouting Profile"
-date: 2019-04-24e
+date: 2019-04-24
 ---
 
 # Josh Hejka Scouting Profile
