@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Josh Hejka Scouting Profile"
-date: 2019-04-323
+date: 2019-04-24e
 ---
 
 ## Table of Contents
@@ -115,4 +115,3 @@ date: 2019-04-323
 - First-Team All-League
 - All-Star Game Starting Pitcher
 - Picked to pitch for league showcase team
-
