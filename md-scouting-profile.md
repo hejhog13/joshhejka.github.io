@@ -76,7 +76,7 @@ date: 2019-04-24
 
 - Incredibly deceptive delivery due to arm slot and mechanics
 - Great tunneling of off-speed pitches and fastball
-- Delivery and tunneling demonstrated in videos below
+- Delivery and tunneling demonstrated in video below
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kmf0Mm1Z6IY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -93,7 +93,7 @@ date: 2019-04-24
 ### Battle Tendency
 
 - Used as a high leverage guy all four years of college
-- Through sophomore through the beginning of this season:
+- From sophomore through the beginning of this season:
   - Allowed only 13% of inherited runners to score
   - Allowed only 22% of inherited runners in scoring position to score
   - Had a 0.78 ERA in the first inning of my appearances
