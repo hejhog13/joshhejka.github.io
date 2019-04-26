@@ -196,8 +196,11 @@ section:last-child {
 
 .img_column {
 	float: left;
-  	width: 44%;
-  	padding: 10px;
+	width: 44%;
+	margin-right: 2%;
+	margin-left: 2%;
+	margin-bottom: 2%;
+	margin-top: 2%;
 }
 
 .img_column img {
