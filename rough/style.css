@@ -196,11 +196,12 @@ section:last-child {
 
 .img_column {
 	float: left;
-	width: 44%;
-	margin-right: 2%;
-	margin-left: 2%;
-	margin-bottom: 2%;
-	margin-top: 2%;
+	width: 50%;
+	margin: 10px auto;
+	/* margin-right: 1%;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	margin-top: 1%; */
 }
 
 .img_column img {
