@@ -292,6 +292,10 @@ section:last-child {
 		padding: 15px 15px;
 	}
 
+	.mainDetails-bottom {
+		padding: 15px 15px;
+	}
+
 	section {
 		padding: 15px 0 0;
 	}
