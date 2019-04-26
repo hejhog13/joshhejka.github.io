@@ -136,14 +136,16 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	/* font-family: 'Rokkitt', Helvetica, Arial, sans-serif; */
+	font-family: serif;
 	font-style: italic;
 	font-size: 1.5em;
 	color: #4fc3ff;
 }
 
 .sectionContent h2 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	/* font-family: 'Rokkitt', Helvetica, Arial, sans-serif; */
+	font-family: serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
