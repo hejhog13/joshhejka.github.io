@@ -169,12 +169,6 @@ section:last-child {
 	/* line-height: 20px; */
 }
 
-.basic li {
-	line-height: 1em;
-	/* line-height: 1.25em; */
-	/* line-height: 20px; */
-}
-
 .subDetails {
 	margin-top: 10px;
 	font-size: 0.8em;
@@ -187,6 +181,7 @@ section:last-child {
 	margin-left: 0px;
 	column-count: 3;
 	column-gap: 0px;
+	line-height: normal;
 }
 
 .pitchInfo li {
