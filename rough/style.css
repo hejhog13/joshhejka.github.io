@@ -186,8 +186,8 @@ section:last-child {
 .pitchInfo li {
 	display: block;
 	margin-left: 0px;
-	margin-bottom: -5px;
-	line-height: 1em;
+	margin-bottom: -3px;
+	line-height: 1.2em;
 }
 
 .row {
@@ -195,9 +195,20 @@ section:last-child {
 	margin-top: 3px;
 }
 
-.column {
+.pitch_row {
+	display: flex;
+	margin-top: 10px;
+	margin-bottom: -5px;
+}
+
+.info_column {
 	line-height: 1.33em;
 	margin-bottom: -10px;
+}
+
+.pitch_column {
+	line-height: 1.33em;
+	margin-bottom: -20px;
 }
 
 .end_column {
