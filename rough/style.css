@@ -190,6 +190,18 @@ section:last-child {
 	line-height: 1.2em;
 }
 
+.mainInfo {
+	font-size: 2em;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.units {
+	font-size: 0.75em;
+	margin-top: -10px;
+	text-align: center;
+}
+
 .row {
 	display: flex;
 	margin-top: 3px;
