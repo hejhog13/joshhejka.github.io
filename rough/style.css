@@ -165,7 +165,7 @@ section:last-child {
 	list-style-position: outside;
 	margin-left: 25px;
 	color: #444;
-	/* line-height: 1.33em; */
+	line-height: 1.33em;
 	/* line-height: 20px; */
 }
 
@@ -192,20 +192,33 @@ section:last-child {
 
 .row {
 	display: flex;
-  }
+	margin-top: 3px;
+}
 
 .column {
 	line-height: 1.4em;
-	margin-bottom: 20px;
+	margin-bottom: -10px;
+}
+
+.column li {
+	display: block;
 }
 
 .left {
-	width: 25%;
+	width: 33%;
+	text-align: left;
+	margin-left: 0px;
+	float: left;
 	/* line-height: 40px; */
 }
 
+.left h2 {
+	color: #222;
+}
+
 .right {
-	width: 72.5%;
+	width: 67%;
+	float: left;
 	/* line-height: 10px; */
 }
 
