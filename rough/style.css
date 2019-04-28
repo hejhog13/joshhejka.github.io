@@ -165,6 +165,12 @@ section:last-child {
 	list-style-position: outside;
 	margin-left: 25px;
 	color: #444;
+	line-height: 1.33em;
+	/* line-height: 20px; */
+}
+
+.basic li {
+	line-height: 1em;
 	/* line-height: 1.25em; */
 	/* line-height: 20px; */
 }
