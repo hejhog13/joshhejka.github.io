@@ -165,7 +165,7 @@ section:last-child {
 	list-style-position: outside;
 	margin-left: 25px;
 	color: #444;
-	line-height: 1.33em;
+	/* line-height: 1.33em; */
 	/* line-height: 20px; */
 }
 
@@ -181,7 +181,6 @@ section:last-child {
 	margin-left: 0px;
 	column-count: 3;
 	column-gap: 0px;
-	line-height: normal;
 }
 
 .pitchInfo li {
