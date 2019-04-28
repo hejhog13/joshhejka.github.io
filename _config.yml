@@ -1,2 +1,4 @@
 name: Josh Hejka
 permalink: /:title
+plugins:
+  - jekyll-redirect-from
