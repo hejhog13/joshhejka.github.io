@@ -161,10 +161,11 @@ section:last-child {
 
 .sectionContent li {
 	margin-top: 10px;
-	margin-bottom: 5px;
+	margin-bottom: 0px;
 	list-style-position: outside;
-	margin-left: 35px;
+	margin-left: 25px;
 	color: #444;
+	line-height: 1.25em;
 	/* line-height: 20px; */
 }
 
@@ -180,6 +181,12 @@ section:last-child {
 	margin-left: 0px;
 	column-count: 3;
 	column-gap: 0px;
+}
+
+.pitchInfo li {
+	display: block;
+	margin-left: 0px;
+	line-height: 0.75em;
 }
 
 .row {
@@ -219,7 +226,7 @@ section:last-child {
 	content: "";
 	display: table;
 	clear: both;
-  }
+}
 
 @media screen and (max-width: 600px) {
 	.column {
