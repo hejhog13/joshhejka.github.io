@@ -196,11 +196,20 @@ section:last-child {
 }
 
 .column {
-	line-height: 1.4em;
+	line-height: 1.33em;
 	margin-bottom: -10px;
 }
 
+.end_column {
+	line-height: 1.33em;
+	margin-bottom: 0px;
+}
+
 .column li {
+	display: block;
+}
+
+.end_column li {
 	display: block;
 }
 
