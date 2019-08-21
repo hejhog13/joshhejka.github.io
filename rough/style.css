@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #181818; font-family: Palatino, serif; font-size: 16px; color: #222;}
+html, body {background: #181818; font-family: Avenir, serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -45,15 +45,14 @@ p {
 	font-size: 2.75em;
 	font-weight: 700;
 	/* font-family: 'Rokkitt', Helvetica, Arial, sans-serif; */
-	font-family: Palatino, serif;
+	font-family: Avenir, sans-serif;
 	margin-bottom: 5px;
 }
 
 #name h2 {
 	font-size: 2.25em;
-	margin-left: 2px;
 	/* font-family: 'Rokkitt', Helvetica, Arial, sans-serif; */
-	font-family: Palatino, serif;
+	font-family: Avenir, sans-serif;
 }
 
 #mainArea {
@@ -145,7 +144,7 @@ section:last-child {
 
 .sectionTitle h1 {
 	/* font-family: 'Rokkitt', Helvetica, Arial, sans-serif; */
-	font-family: Palatino, serif;
+	font-family: Avenir, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
 	color: #4fc3ff;
@@ -154,7 +153,7 @@ section:last-child {
 
 .sectionContent h2 {
 	/* font-family: 'Rokkitt', Helvetica, Arial, sans-serif; */
-	font-family: Palatino, serif;
+	font-family: Avenir, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
