@@ -26,6 +26,7 @@ html, body {
 .photo_section_left {
     width: 50%;
     float: left;
+    margin-bottom: 30px;
 }
 
 .photo_section_left img {
@@ -36,6 +37,7 @@ html, body {
 .photo_section_right {
     width: 50%;
     float: right;
+    margin-bottom: 30px;
 }
 
 .photo_section_right img {
@@ -44,12 +46,45 @@ html, body {
     float: right;
 }
 
+.info_section_first {
+    width: 37.5%;
+    background: #eeeeee;
+    padding: 15px 5%;
+    border-radius: 30px;
+    float: left;
+}
+
+.info_section_second {
+    width: 37.5%;
+    background: #eeeeee;
+    padding: 15px 5%;
+    border-radius: 30px;
+    float: right;
+}
+
+/* .info_section_first {
+    width: 20%;
+    float: left;
+    background: #eeeeee;
+    padding: 25px 5%;
+    border-radius: 30px;
+}
+
+.info_section_second {
+    width: 20%;
+    float: left;
+    background: #eeeeee;
+    padding: 25px 5%;
+    border-radius: 30px;
+    margin-left: 5%;
+} */
+
 .main_section {
     width: 90%;
 	max-width: 700px;
 	background: #eeeeee;
     margin: 30px auto;
-    padding: 25px 35px;
+    padding: 25px 5%;
     border-radius: 30px;
 }
 
@@ -146,6 +181,10 @@ html, body {
 .bordered_section {
     border-bottom: 2px solid #dedede;
     padding-bottom: 10px;
+}
+
+.bordered_section_no_padding {
+    border-bottom: 2px solid #dedede;
 }
 
 .container {
