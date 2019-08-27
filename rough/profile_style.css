@@ -106,7 +106,7 @@ html, body {
 	width: 100%;
 	height: auto;
 	-moz-border-radius: 15px;
-    border-radius: 15px;
+    border-radius: 40px;
     overflow: hidden;
 }
 
