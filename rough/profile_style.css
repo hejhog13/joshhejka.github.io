@@ -105,8 +105,9 @@ html, body {
 #headshot img {
 	width: 100%;
 	height: auto;
-	-webkit-border-radius: 40px;
-	border-radius: 40px;
+	-moz-border-radius: 15px;
+    border-radius: 15px;
+    overflow: hidden;
 }
 
 #player_info {
